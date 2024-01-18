@@ -1,1 +1,1 @@
-Aplicações de Javascript realizadas em aulas
+Aplicações de Javascript realizadas em aulas de desenvolver algorítmos
