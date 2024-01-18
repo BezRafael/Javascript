@@ -1,0 +1,15 @@
+INICIAR
+    LER numero(totalEleitores)
+    LER numero(totalBranco)
+    LER numero(totalNulos)
+    LER numero(totalValidos)
+        SE (totalBranco+totalNulos+totalValidos==totalEleitores)
+            FAZER ((totalBranco/totalEleitores)*100)
+                ESCREVER porcentoBranco = ((totalBranco/totalEleitores)*100)
+            FAZER ((totalNulos/totalEleitores)*100)
+                ESCREVER porcentoNulo = ((totalNulos/totalEleitores)*100)
+            FAZER ((totalValidos/totalEleitores)*100)
+                ESCREVER porcentoValido = ((totalValidos/totalEleitores)*100)         
+        SENAO
+            ESCREVER "Houve fraude é golpe!!!!"
+FINALIZAR
