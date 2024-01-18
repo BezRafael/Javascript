@@ -1,1 +1,1 @@
-Escreva um algorítmo para ler o número total de eleitores de um município, o número de votos nulos e válidos. Em seguida, calcule e escreva o percentual que cada um representa em relação ao total de eleitores
+#️⃣​💻​​​Escreva um algorítmo para ler o número total de eleitores de um município, o número de votos nulos e válidos. Em seguida, calcule e escreva o percentual que cada um representa em relação ao total de eleitores.​​🗳️
