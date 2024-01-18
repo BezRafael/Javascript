@@ -1,0 +1,9 @@
+INICIAR
+    LER quantidade
+        SE (quantidade >11)
+            FAZER quantidade*1.00
+                ESCREVER quantidadeTotal = (quantidade*1.00)
+        SENAO
+            FAZER quantidade* 1.30
+                ESCREVER quantidadeTotal = (quantidade*1.30)
+FINALIZAR
